@@ -20,17 +20,17 @@ This repository serves as a portfolio of hands-on cybersecurity lab practice. Th
 
 ## 🏅 Proof of Completion
 
-![Profile overview](screenshots/Main.png)
+![Profile overview](CTF%20Bages/Main.png)
 
 <details>
 <summary>📸 All 44 lab badges</summary>
 
-![Badges page 1](screenshots/Badges1.png)
-![Badges page 2](screenshots/Badges2.png)
-![Badges page 3](screenshots/Badges3.png)
-![Badges page 4](screenshots/Badges4.png)
-![Badges page 5](screenshots/Badges5.png)
-![Badges page 6](screenshots/Badges6.png)
+![Badges page 1](CTF%20Bages/Badges1.png)
+![Badges page 2](CTF%20Bages/Badges2.png)
+![Badges page 3](CTF%20Bages/Badges3.png)
+![Badges page 4](CTF%20Bages/Badges4.png)
+![Badges page 5](CTF%20Bages/Badges5.png)
+![Badges page 6](CTF%20Bages/Badges6.png)
 
 </details>
 
