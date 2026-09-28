@@ -2,7 +2,7 @@
 
 Hands-on cybersecurity practice covering web security, network security, SIEM/ELK, digital forensics, threat detection, cryptography, vulnerability analysis, exploitation, and Linux security.
 
-![Labs](https://img.shields.io/badge/Labs-36-blue)
+![Labs](https://img.shields.io/badge/Labs-44-blue)
 ![Flags](https://img.shields.io/badge/Flags-226-orange)
 ![Badges](https://img.shields.io/badge/Lab%20Badges-44-purple)
 ![Focus](https://img.shields.io/badge/Focus-Red%20%26%20Blue%20Team-red)
@@ -10,13 +10,29 @@ Hands-on cybersecurity practice covering web security, network security, SIEM/EL
 ## 📖 About
 A collection of hands-on labs and challenge-based exercises across multiple cybersecurity domains.
 
-**Practical activity:** 226 flags solved · 44 lab badges · 36 labs completed
+**Practical activity:** 226 flags solved · 44 lab badges · 44 labs completed
 
-Areas of practice include web security, network security, SIEM and ELK, digital forensics, threat detection, cryptography, vulnerability analysis, exploitation, and Linux security. Labs include web security exercises (SQL injection, advanced SQL injection, sessions and cookies, cross-site scripting), cryptography labs (RSA, AES, encoding and encryption), vulnerability analysis and exploitation labs, SIEM, detection and digital forensics labs, network security and IDS labs, and a Linux security lab.
+Areas of practice include web security, network security, SIEM and ELK, digital forensics, threat detection, cryptography, vulnerability analysis, exploitation, and Linux security. Labs include web security exercises (SQL injection, advanced SQL injection, sessions and cookies, cross-site scripting), cryptography labs (RSA, AES, encoding and encryption), vulnerability analysis and exploitation labs, SIEM, detection and digital forensics labs, network security and IDS labs, and Linux security and access control labs.
 
 This repository serves as a portfolio of hands-on cybersecurity lab practice. The goal is to demonstrate practical exposure to multiple cybersecurity domains alongside academic knowledge and independent projects.
 
 > **Note:** these are lab activities, not professional work experience.
+
+## 🏅 Proof of Completion
+
+![Profile overview](screenshots/Main.png)
+
+<details>
+<summary>📸 All 44 lab badges</summary>
+
+![Badges page 1](screenshots/Badges1.png)
+![Badges page 2](screenshots/Badges2.png)
+![Badges page 3](screenshots/Badges3.png)
+![Badges page 4](screenshots/Badges4.png)
+![Badges page 5](screenshots/Badges5.png)
+![Badges page 6](screenshots/Badges6.png)
+
+</details>
 
 ## 📑 Table of Contents
 - [Web Security](#-web-security)
@@ -25,6 +41,7 @@ This repository serves as a portfolio of hands-on cybersecurity lab practice. Th
 - [Blue Team: Monitoring, Detection & Forensics](#-blue-team-monitoring-detection--forensics)
 - [Data Protection: Backups & Integrity](#-data-protection-backups--integrity)
 - [Network Security (Labtainers)](#-network-security-labtainers)
+- [Linux Security & Access Control](#-linux-security--access-control)
 - [Linux Fundamentals](#-linux-fundamentals)
 - [Tests / Exams](#-tests--exams)
 
@@ -57,6 +74,7 @@ This repository serves as a portfolio of hands-on cybersecurity lab practice. Th
 | 4 | From Scanning to Exploitation |
 | 5 | Vulnerabilities, Exploits & Remote Access Payloads |
 | 6 | Post-Exploitation |
+| 7 | Hacker vs Hackerbot 1 |
 
 ## 🔵 Blue Team: Monitoring, Detection & Forensics
 | # | Lab |
@@ -89,6 +107,17 @@ This repository serves as a portfolio of hands-on cybersecurity lab practice. Th
 | 8 | packet-introspection |
 | 9 | wireshark-intro |
 
+## 🔒 Linux Security & Access Control
+| # | Lab |
+|---|-----|
+| 1 | AppArmor Lab |
+| 2 | Containers Lab |
+| 3 | Access Control Lists (ACLs) Lab |
+| 4 | Set User ID Lab |
+| 5 | Access Controls Lab |
+| 6 | Pluggable Authentication Modules Lab |
+| 7 | Authentication Lab |
+
 ## 🐧 Linux Fundamentals
 | # | Lab |
 |---|-----|
@@ -112,4 +141,4 @@ This repository serves as a portfolio of hands-on cybersecurity lab practice. Th
 ---
 
 ## 🧰 Skills & Tools
-`Wireshark` · `Snort` · `ELK Stack` · `iptables` · `Labtainers` · `RSA / AES` · `SQLi / XSS / CSRF` · `Linux`
+`Wireshark` · `Snort` · `ELK Stack` · `iptables` · `Labtainers` · `AppArmor` · `RSA / AES` · `SQLi / XSS / CSRF` · `Linux`
